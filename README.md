@@ -1,0 +1,2 @@
+# HOUSEHOLD-SERVICES
+This repo is for my MAD 1 PROJECT 
